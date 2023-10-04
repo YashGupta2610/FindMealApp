@@ -1,5 +1,5 @@
 🪧 Demo :-  [https://yashgupta2610.github.io/FindMealApp/]
-🪧 Demo :-  https://akshay0326.github.io/Meal-App-Find-Your-Meal/
+🪧 Demo :- https://youtu.be/YMOxnA-gwGI
 
 ---
 About the Project :-
